@@ -1,7 +1,7 @@
 # ASA - Applied Statistical Analysis
 
 
-ASA is an easy-to-use pipeline that implements a set of statistical parametric analyzes (ANOVA, MIXED MODEL ANOVA, LM and LME) that can be adjusted to different datasets.
+ASA is an easy-to-use pipeline that implements a set of statistical parametric analyzes that can be adjusted to different datasets.
 
 
 ## STEP.1 - Download this repository to a preference path:
